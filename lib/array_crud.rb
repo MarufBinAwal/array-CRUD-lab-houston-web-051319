@@ -1,20 +1,21 @@
 def create_an_empty_array
+  []
   
 end
 
-def create_an_array
+def ["Coke", "Sprite", "Dr.Pepper", "Fanta"] = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
   
 end
 
-def add_element_to_end_of_array(array, element)
+def ["Coke", "Sprite", "Dr.Pepper", "Fanta"].push("Soft_Drinks", "Diet Coke")
   
 end
 
-def add_element_to_start_of_array(array, element)
+def add_element_to_start_of_array.unshift("Soft_Drinks", "Powerade")
   
 end
 
-def remove_element_from_end_of_array(array)
+def remove_element_from_end_of_array.pop("Soft_Drinks")
   
 end
 
