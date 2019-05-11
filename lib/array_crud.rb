@@ -9,7 +9,7 @@ end
 
 def ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
   
-     soft_drinks << ""
+     soft_drinks << "Powerade"
 end
 
 def add_element_to_start_of_array.unshift("Soft_Drinks", "Powerade")
