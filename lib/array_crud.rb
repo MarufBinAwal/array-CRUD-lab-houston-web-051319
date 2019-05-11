@@ -7,12 +7,13 @@ def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
   
 end
 
-def ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
+def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
   
      soft_drinks << "Powerade"
 end
 
-def add_element_to_start_of_array.unshift("Soft_Drinks", "Powerade")
+def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
+    soft_drinks.unshift
   
 end
 
