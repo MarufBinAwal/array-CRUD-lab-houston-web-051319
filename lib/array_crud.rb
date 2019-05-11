@@ -30,7 +30,9 @@ def  soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
   
 end
 
-def retrieve_element_from_index(array, index_number)
+def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
+  
+    soft_drinks[3]
   
 end
 
