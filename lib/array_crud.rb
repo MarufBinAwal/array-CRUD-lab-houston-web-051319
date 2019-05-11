@@ -24,7 +24,9 @@ def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
   
 end
 
-def remove_element_from_start_of_array(array)
+def  soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
+    
+    
   
 end
 
