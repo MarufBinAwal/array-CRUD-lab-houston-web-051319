@@ -18,7 +18,9 @@ def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
   
 end
 
-def remove_element_from_end_of_array.pop("Soft_Drinks")
+def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
+  
+    soft_drinks.pop("")
   
 end
 
