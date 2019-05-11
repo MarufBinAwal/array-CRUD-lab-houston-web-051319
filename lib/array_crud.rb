@@ -38,7 +38,7 @@ end
 
 def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
     
-    
+    soft_drinks.first
   
 end
 
