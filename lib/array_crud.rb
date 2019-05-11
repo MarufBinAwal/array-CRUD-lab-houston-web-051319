@@ -3,7 +3,7 @@ def create_an_empty_array
   
 end
 
-def ["Coke", "Sprite", "Dr.Pepper", "Fanta"] = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
+def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
   
 end
 
