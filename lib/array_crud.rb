@@ -13,7 +13,7 @@ def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
 end
 
 def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
-    soft_drinks.unshift
+    soft_drinks.unshift()
   
 end
 
