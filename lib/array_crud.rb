@@ -26,7 +26,7 @@ end
 
 def  soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
     
-    
+    coke = soft_drinks.shift
   
 end
 
