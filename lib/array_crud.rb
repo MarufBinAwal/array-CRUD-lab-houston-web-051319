@@ -7,7 +7,7 @@ def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
   
 end
 
-def ["Coke", "Sprite", "Dr.Pepper", "Fanta"].push("Soft_Drinks", "Diet Coke")
+def ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
   
 end
 
