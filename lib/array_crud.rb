@@ -36,7 +36,9 @@ def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
   
 end
 
-def retrieve_first_element_from_array(array)
+def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
+    
+    
   
 end
 
