@@ -20,7 +20,7 @@ end
 
 def soft_drinks = ["Coke", "Sprite", "Dr.Pepper", "Fanta"]
   
-    soft_drinks.pop("")
+    = soft_drinks.pop
   
 end
 
